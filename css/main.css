@@ -1,6 +1,6 @@
 /*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
 
-html {
+body {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
@@ -24,12 +24,6 @@ video {
     vertical-align: middle;
 }
 
-fieldset {
-    border: 0;
-    margin: 0;
-    padding: 0;
-}
-
 textarea {
     resize: vertical;
 }
@@ -41,7 +35,7 @@ textarea {
 }
 
 /* ===================
-    ALL: Orange Theme
+    INDEX.HTML: Orange Theme
    =================== */
 
 .header-container {
@@ -62,6 +56,96 @@ textarea {
 .title {
     color: white;
 }
+
+
+/* ===================
+    googlegroups.html theme - Star Wars
+   =================== */
+
+body#googlegroups {
+    background-image: url('../images/bg-stars.jpg');
+    background-size: cover;
+}
+
+body#googlegroups .main-container {
+    color: #fff;
+}
+
+body#googlegroups aside, body#googlegroups .header-container {
+    box-shadow: none;
+}
+
+#googlegroups .header-container {
+    background: #808080;
+    border-bottom: 20px solid #4b4b4b;
+}
+
+#googlegroups aside {
+    background: #808080;
+    border-bottom: 20px solid #4b4b4b;
+    border-top: 20px solid #4b4b4b;
+}
+
+#googlegroups .footer-container {
+    background: #808080;
+    border-top: 20px solid #4b4b4b;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
+
+#googlegroups nav a {
+    background: #4a47b9;
+}
+
+
+
+
+/* ===================
+    facebook.html theme
+   =================== */
+
+#facebook
+.header-container,
+#facebook 
+.footer-container,
+#facebook
+.main aside { 
+    background: #3b5998;
+}
+
+#facebook .footer-container,
+#facebook .main aside {
+    border-top: 20px solid #ffad00;
+}
+
+#facebook .header-container {
+    border-bottom: 20px solid #ffad00;
+}
+
+#facebook nav a {
+    background: #ffad00;
+    color: #fff;
+}
+
+
+
+/* ===================
+    mailchimp.html theme
+   =================== */
+
+
+
+/* ===================
+    slack.html theme
+   =================== */
+
+
+/* ===================
+    tinyletter.html theme
+   =================== */
+
+
 
 /* ==============
     MOBILE: Menu
@@ -122,12 +206,6 @@ nav a:hover {
    ========================================================================== */
 
 
-/*body {
-    background-image: url('../images/bg-stars.jpg');
-    background-size: cover;
-    color: #fff;
-}*/
-
 h1.title { font-size: 30px; max-width: 400px; line-height: 1.2;}
 .btn {
     color: #fff;
@@ -144,6 +222,9 @@ h1.title { font-size: 30px; max-width: 400px; line-height: 1.2;}
 
 .btn.facebook {
     background: #3b5998;
+}
+.btn.normal {
+    background: #0F9D58;
 }
 a { text-decoration: none;}
 
@@ -170,7 +251,7 @@ a { text-decoration: none;}
         float: left;
         width: 27%;
         margin: 0 1.7%;
-        padding: 25px 2%;
+        padding: 27px 2%;
         margin-bottom: 0;
     }
 
@@ -251,6 +332,14 @@ a { text-decoration: none;}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
+
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
+}
 
 .hidden {
     display: none !important;
