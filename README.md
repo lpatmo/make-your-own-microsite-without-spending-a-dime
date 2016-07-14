@@ -60,7 +60,7 @@ Remember:
 1. Why use Git? (audience question)
 2. `git status`, `git add .`, `git commit -am "commit message"`, and `git push`
 3. Create a branch named `gh-pages`: ```$ git checkout -b gh-pages```
-Make sure your home page is at the base of your repo directory and is named index.html so that GitHub knows to display it.
+Make sure your home page is at the base of your repo directory and is named index.html so that GitHub knows to display it. If you're not sure what branch you're in, type `$ git branch`. If you want to switch to another branch, type `$ git checkout [NAME OF OTHER BRANCH]`.
 4. Push your new branch to Github: ```$ git push origin gh-pages```
 5. After a few minutes, you'll see your brand new microsite at http://username.github.io/projectName/ 
 
