@@ -10,13 +10,13 @@ In this workshop, you’ll learn enough HTML/CSS to create (and understand how t
 
 This training is an introduction to web development for online organizers who want to learn how to launch their own microsite for free. No prior experience with HTML, CSS or Git is needed.
 
-To get the most out of the workshop, please bring your laptop.
+To get the most out of the workshop, please bring your laptop and join the [Facebook Group](https://www.facebook.com/groups/lindatraining)
 
 ## What you need to bring
 1. A laptop
 2. A bit of faith in magic.
 
-Remember:
+## Remember:
 1. You can do it!!!
 2. Please ask for help when you get stuck. Post your question on the Facebook group.
 
