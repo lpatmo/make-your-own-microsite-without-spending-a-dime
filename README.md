@@ -65,4 +65,11 @@ Make sure your home page is at the base of your repo directory and is named inde
 5. After a few minutes, you'll see your brand new microsite at http://username.github.io/projectName/ 
 
 ## What if I want a custom domain name?
-4. Create a CNAME file on your github repository.
+1. Create a CNAME file on your github repository.
+
+
+## "I'm stuck!" Tips
+1. Look at the suggestion in your Power Shell or Terminal.
+2. Google the error message or the thing you're trying to do!
+3. Post your error or a question on the [Facebook Group](https://www.facebook.com/groups/lindatraining)
+
