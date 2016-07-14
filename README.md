@@ -65,11 +65,14 @@ Make sure your home page is at the base of your repo directory and is named inde
 5. After a few minutes, you'll see your brand new microsite at http://username.github.io/projectName/ 
 
 ## What if I want a custom domain name?
-1. Create a CNAME file on your github repository.
+0. Domain names can cost anywhere from $0.99 cents/year to a few thousand dollars. Typically, I would expect to pay between $10-$15 per year for a domain.
+1. If you've bought a domain name from NameCheap, follow the instructions [here](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages).
+2. If you've bought a domain name from GoDaddy, follow the instructions [here](http://mycyberuniverse.com/web/configuring-a-godaddy-domain-name-with-github-pages.html)
 
 
 ## "I'm stuck!" Tips
 1. Look at the suggestion in your Power Shell or Terminal.
 2. Google the error message or the thing you're trying to do!
-3. Post your error or a question on the [Facebook Group](https://www.facebook.com/groups/lindatraining)
+3. Talk out the problem with someone sitting near you.
+4. Post your error or a question on the [Facebook Group](https://www.facebook.com/groups/lindatraining)
 
