@@ -122,14 +122,30 @@ nav a:hover {
    ========================================================================== */
 
 
-body {
+/*body {
     background-image: url('../images/bg-stars.jpg');
     background-size: cover;
     color: #fff;
+}*/
+
+h1.title { font-size: 30px; max-width: 400px; line-height: 1.2;}
+.btn {
+    color: #fff;
+    padding: 10px;
+    border: none;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+.btn:hover {
+    cursor: pointer;
+    border-bottom: 1px solid #fff;
 }
 
-
-
+.btn.facebook {
+    background: #3b5998;
+}
+a { text-decoration: none;}
 
 
 
