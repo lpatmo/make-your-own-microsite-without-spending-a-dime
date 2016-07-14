@@ -58,7 +58,7 @@ Remember:
 
 ## How do I deploy my site?
 1. Why use Git? (audience question)
-2. `git status`, `git add`, `git commit -am "commit message"`, and `git push`
+2. `git status`, `git add .`, `git commit -am "commit message"`, and `git push`
 3. Create a branch named `gh-pages`: ```$ git checkout -b gh-pages```
 Make sure your home page is at the base of your repo directory and is named index.html so that GitHub knows to display it.
 4. Push your new branch to Github: ```$ git push origin gh-pages```
