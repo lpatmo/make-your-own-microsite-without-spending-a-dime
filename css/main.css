@@ -341,6 +341,10 @@ a { text-decoration: none;}
     float: right;
 }
 
+.align-center {
+    text-align: center;
+}
+
 .hidden {
     display: none !important;
     visibility: hidden;
