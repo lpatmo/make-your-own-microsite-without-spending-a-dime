@@ -41,8 +41,18 @@ To get the most out of the workshop, please bring your laptop and join the [Face
 9. Right click and grab the URL of the index.html page of your project. Paste it into your web browser.
 
 ## HTML and CSS walkthrough
-- HTML (building blocks)
+- HTML (building blocks, inline vs. block elements)
+	- h1, h2, h3, etc.
+	- <p>
+	- <a href="" target="_blank">Link</a>
+	- <span> vs. <div>
+	- <img src="something.jpg"/>
+	- <br />
 - CSS (styling)
+	- classes vs. IDs
+	- You choose the selector names.
+	- [Comprehensive CSS reference from Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+	- [Clearfix](http://stackoverflow.com/questions/8554043/what-is-clearfix)
 - What are media queries?
 - How to save images in the `images` folder and URL paths
 - JSFiddle.net, CodePen.io, etc.
