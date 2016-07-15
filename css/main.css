@@ -208,8 +208,11 @@ nav a:hover {
 }
 
 .main article h1 {
-    font-size: 2em;
+    font-size: 60px;
+    color: blue;
 }
+
+p { color: red;}
 
 .main aside {
     color: white;
