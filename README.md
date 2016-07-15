@@ -25,14 +25,12 @@ To get the most out of the workshop, please bring your laptop and join the [Face
 
 4:40pm-5:15pm - Q&A, Implementation Help
 
-## About the Trainer
-
 
 ## Setup
 1. Join the Facebook group here: [https://www.facebook.com/groups/lindatraining](https://www.facebook.com/groups/lindatraining)
-2. Create a github account, and download Git from https://git-scm.com/download/win if you're on a Windows machine and https://git-scm.com/download/mac if you're on a mac machine.
+2. Create a github account, and download Git from https://git-scm.com/download/win if you're on a Windows machine and https://git-scm.com/download/mac if you're on a mac machine. We'll be using Github to host our small website. Github offers revision control and source code management, and is often used to host public open-sourced software projects.
 3. Fork this repository by going to https://github.com/lpatmo/make-your-own-microsite-without-spending-a-dime and clicking on the "fork" button.
-4. Download Sublime (https://www.sublimetext.com/) or Atom (https://atom.io/) if you don't already have a favorite text editor.
+4. Download Sublime (https://www.sublimetext.com/) if you don't already have a favorite text editor.
 5. Open up your Terminal or PowerShell. (On a mac, find it in Applications -> Utilities)
 6. Navigate to your file path of choice using `ls` and `cd` on Mac, or `dir` and `cd` on Windows.
 7. `git clone` your repository into a folder of your choice: 
@@ -42,7 +40,9 @@ To get the most out of the workshop, please bring your laptop and join the [Face
 
 ## HTML and CSS walkthrough
 - HTML (building blocks, inline vs. block elements)
+	- font styles ([Google Fonts](https://fonts.google.com/))
 	- h1, h2, h3, etc.
+	- Facebook og tags
 	- <p>
 	- <a href="" target="_blank">Link</a>
 	- <span> vs. <div>
