@@ -27,6 +27,12 @@ hr {
     padding: 0;
 }
 
+input[type="text"], input[type="email"] {
+    width: 100%;
+    margin-bottom: 10px;
+    height: 25px;
+}
+
 audio,
 canvas,
 iframe,
@@ -130,6 +136,8 @@ body#googlegroups aside, body#googlegroups .header-container {
 #facebook .main aside {
     border-top: 20px solid #ffad00;
 }
+
+#facebook aside { padding: 0px; width: 340px;}
 
 #facebook .header-container {
     border-bottom: 20px solid #ffad00;
