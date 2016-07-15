@@ -28,7 +28,7 @@ To get the most out of the workshop, please bring your laptop and join the [Face
 
 ## Setup
 1. Join the Facebook group here: [https://www.facebook.com/groups/lindatraining](https://www.facebook.com/groups/lindatraining)
-2. Create a github account, and download Git from https://git-scm.com/download/win if you're on a Windows machine and https://git-scm.com/download/mac if you're on a mac machine. We'll be using Github to host our small website. Github offers revision control and source code management, and is often used to host public open-sourced software projects.
+2. Create a github account, and download Git from https://git-scm.com/download/win if you're on a Windows machine and https://git-scm.com/download/mac if you're on a mac machine. We'll be using Github to host our small website. Github offers revision control and source code management, and is often used to host open-sourced software projects like this one.
 3. Fork this repository by going to https://github.com/lpatmo/make-your-own-microsite-without-spending-a-dime and clicking on the "fork" button.
 4. Download Sublime (https://www.sublimetext.com/) if you don't already have a favorite text editor.
 5. Open up your Terminal or PowerShell. (On a mac, find it in Applications -> Utilities)
@@ -51,6 +51,7 @@ To get the most out of the workshop, please bring your laptop and join the [Face
 - CSS (styling)
 	- classes vs. IDs
 	- You choose the selector names.
+	- padding vs. margin
 	- [Comprehensive CSS reference from Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 	- [Clearfix](http://stackoverflow.com/questions/8554043/what-is-clearfix)
 - What are media queries?
@@ -62,10 +63,9 @@ To get the most out of the workshop, please bring your laptop and join the [Face
 - How do I change the color theme of the site?
 - How do I change the background?
 - How do I change the font style of all my fonts?
-- How do I do something I don't know how to do? (Google)
 - How do I make the title bigger?
 - How do I move the sidebar to the left instead of the right?
-- How do I add a bit of spacing between sidebar and the <article>? (padding vs. margin)
+- What if I don't know how to change something?
 
 
 ## How do I deploy my site?
