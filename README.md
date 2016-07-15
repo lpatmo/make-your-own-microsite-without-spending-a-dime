@@ -4,7 +4,7 @@
 #### Starts: Friday, Jul. 15 4:00 PM
 #### Ends: Friday, Jul. 15 5:15 PM
 #### Room: 102
-#### Trainer: Linda Peng (http://twitter.com/lpnotes)
+#### Trainer: Linda Peng (http://twitter.com/lpnotes), Developer at We Also Walk Dogs ([Actionkit.com](http://actionkit.com))
 
 In this workshop, you’ll learn enough HTML/CSS to create (and understand how to edit) your very own microsite. We’ll show you how to get your new website hosted for free on Github Pages, how to attach a custom domain name to your newly launched site and how to create your own online community (including how to embed a signup form) using platforms like Slack, Facebook, or Mailchimp. Plus, the technical skills you’ll learn can be applied to other parts of your work, allowing you to master tasks like creating email templates and modifying WordPress sites.
 
