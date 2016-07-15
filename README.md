@@ -43,11 +43,7 @@ To get the most out of the workshop, please bring your laptop and join the [Face
 	- font styles ([Google Fonts](https://fonts.google.com/))
 	- h1, h2, h3, etc.
 	- Facebook og tags
-	- <p>
-	- <a href="" target="_blank">Link</a>
-	- <span> vs. <div>
-	- <img src="something.jpg"/>
-	- <br />
+	- p, a, span, div, img, br tags
 - CSS (styling)
 	- classes vs. IDs
 	- You choose the selector names.
