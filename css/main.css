@@ -80,7 +80,7 @@ textarea {
     googlegroups.html theme - Star Wars
    =================== */
 
-body#googlegroups {
+body#star-wars-theme {
     background-image: url('../images/bg-stars.jpg');
     background-size: cover;
 }
@@ -209,10 +209,10 @@ nav a:hover {
 
 .main article h1 {
     font-size: 60px;
-    color: blue;
+    color: #000;
 }
 
-p { color: red;}
+p { color: #000;}
 
 .main aside {
     color: white;
